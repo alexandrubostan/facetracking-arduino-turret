@@ -1,4 +1,4 @@
-# Facetracking Arduino Turret
+# Face Tracking Arduino Turret
 
 A simple turret capable of tracking your face and shooting Nerf darts at your face.
 
@@ -9,7 +9,6 @@ Program was calibrated to work with [this design](https://www.littlefrenchkev.co
 ### How to build
 1. Compile *facerec.cpp* and *serial.cpp* using MSVC.
 2. Upload *facerec_arduino.ino* to your Arduino.
-3. Profit.
 
 ### How to use
 1. Power up the contraption.
